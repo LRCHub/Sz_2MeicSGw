@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ATARAXIA",
+  "base_artist": "ELFENSJóN",
+  "createdAt": "2026-01-07T18:47:52.361960Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ataraxia",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Ataraxia_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ataraxia - Media Intro",
+      "artist": "Everclear",
+      "has_synced": true,
+      "path": "select/02_Ataraxia_-_Media_Intro_Everclear.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ataraxia",
+      "artist": "Team Sleep",
+      "has_synced": true,
+      "path": "select/03_Ataraxia_Team_Sleep.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ataraxia",
+      "artist": "Laika",
+      "has_synced": true,
+      "path": "select/04_Ataraxia_Laika.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "broKen NIGHT(Fate/hollow ataraxia edit) - Fate/Hollow Ataraxia Edit",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/05_broKen_NIGHT(Fate_hollow_ataraxia_edit)_-_Fate_Hollow_Ataraxia_Edit_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Broken Night(Fate/hollow ataraxia edit)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/06_Broken_Night(Fate_hollow_ataraxia_edit)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "holLow wORlD(Fate/hollow ataraxia edit) - Fate/Hollow Ataraxia Edit",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/07_holLow_wORlD(Fate_hollow_ataraxia_edit)_-_Fate_Hollow_Ataraxia_Edit_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hollow World(Fate/hollow ataraxia edit)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/08_Hollow_World(Fate_hollow_ataraxia_edit)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ataraxia",
+      "artist": "Everclear",
+      "has_synced": true,
+      "path": "select/09_Ataraxia_Everclear.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ataraxia (Album Version)",
+      "artist": "Team Sleep",
+      "has_synced": true,
+      "path": "select/10_Ataraxia_(Album_Version)_Team_Sleep.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ataraxia Tunnels",
+      "artist": "Mare Cognitum",
+      "has_synced": false,
+      "path": "select/11_Ataraxia_Tunnels_Mare_Cognitum.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ATARAXIA",
+      "artist": "ELFENSJóN",
+      "has_synced": false,
+      "path": "select/pl_01_ATARAXIA_ELFENSJóN.txt"
+    }
+  ]
+}
